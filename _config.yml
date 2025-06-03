@@ -14,9 +14,6 @@ baseurl:
 # location of code, the full url to your github repository
 source-code: https://github.com/ahmad-fayyaz/liblab_peace_collections
 
-# url to the shared assets folder on mainweb
-digital-assets: https://www.lib.uidaho.edu/assets
-
 ##########
 # SITE SETTINGS
 #
