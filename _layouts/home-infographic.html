@@ -24,12 +24,8 @@ layout: page
           </svg></a>
           
           <br>
-          <small>Images and 3D models of lithic artifacts collected or created by Crabtree.</small>
-        <p class="card-text">
-          {% assign archives = site.data.crabtree_archives | where_exp: 'i', 'i.objectid and i.parentid == nil' | size %}
-          <a class="text-dark" href="{{ '/archives/browse.html' | relative_url }}">{{ archives }} Archival Items <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-compound-object"/></svg></a><br>
-          <small>Digitized materials from the Crabtree archives including photographs, slides, and documents.</small>
-        </p>
+          <small>Sample Description</small>
+        
       </div>
     </div>
 

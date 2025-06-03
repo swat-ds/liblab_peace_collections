@@ -1,0 +1,162 @@
+{
+    "title": {
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/crabtree-banner.jpg",
+          "caption": null,
+          "credit": "Swarthmore College's Peace Collection"
+        },
+        "text": {
+          "headline": "Swarthmore College's Peace Collection Timeline",
+          "text": "The Description"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1950-a_sm.jpg",
+          "caption": "Ce.1950",
+          "link": "/items/ce_cc_d2_1950_model.html"
+        },
+        "start_date": { 
+          
+          "month": "80",
+          "day": "",
+          "year": "1975"
+        },
+        "text": {
+          "headline": "Ce.1950",
+          "text": "Clovis"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1950-a_sm.jpg",
+          "caption": "Ce.1950",
+          "link": "/items/ce_cc_d2_1950_model.html#ce_cc_d2_1950-a"
+        },
+        "start_date": { 
+          
+          "month": "80",
+          "day": "",
+          "year": "1975"
+        },
+        "text": {
+          "headline": "Ce.1950",
+          "text": "Clovis"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1950-b_sm.jpg",
+          "caption": "Ce.1950",
+          "link": "/items/ce_cc_d2_1950_model.html#ce_cc_d2_1950-b"
+        },
+        "start_date": { 
+          
+          "month": "80",
+          "day": "",
+          "year": "1975"
+        },
+        "text": {
+          "headline": "Ce.1950",
+          "text": "Clovis"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1951-a_sm.jpg",
+          "caption": "Ce.1951",
+          "link": "/items/ce_cc_d2_1951_model.html"
+        },
+        "start_date": { 
+          
+          "year": "1972"
+        },
+        "text": {
+          "headline": "Ce.1951",
+          "text": "Folsom, basally ground"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1951-a_sm.jpg",
+          "caption": "Ce.1951",
+          "link": "/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-a"
+        },
+        "start_date": { 
+          
+          "year": "1972"
+        },
+        "text": {
+          "headline": "Ce.1951",
+          "text": "Folsom, basally ground"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1951-b_sm.jpg",
+          "caption": "Ce.1951",
+          "link": "/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-b"
+        },
+        "start_date": { 
+          
+          "year": "1972"
+        },
+        "text": {
+          "headline": "Ce.1951",
+          "text": "Folsom, basally ground"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_ce_d1_1152-a_sm.jpg",
+          "caption": "Ce.1152",
+          "link": "/items/ce_ce_d1_1152-a.html"
+        },
+        "start_date": { 
+          
+          "year": "1950"
+        },
+        "text": {
+          "headline": "Ce.1152",
+          "text": "Material: glass from bank door. (JW)"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_ce_d1_1152-a2_sm.jpg",
+          "caption": "Ce.1152",
+          "link": "/items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-a2"
+        },
+        "start_date": { 
+          
+          "year": "1950"
+        },
+        "text": {
+          "headline": "Ce.1152",
+          "text": "Material: glass from bank door. (JW)"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_ce_d1_1152-b_sm.jpg",
+          "caption": "Ce.1152",
+          "link": "/items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-b"
+        },
+        "start_date": { 
+          
+          "year": "1950"
+        },
+        "text": {
+          "headline": "Ce.1152",
+          "text": "Material: glass from bank door. (JW)"
+        }
+      },{
+        "media": {
+          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_ce_d1_1152-b2_sm.jpg",
+          "caption": "Ce.1152",
+          "link": "/items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-b2"
+        },
+        "start_date": { 
+          
+          "year": "1950"
+        },
+        "text": {
+          "headline": "Ce.1152",
+          "text": "Material: glass from bank door. (JW)"
+        }
+      }
+    ]
+}

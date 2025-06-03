@@ -1,0 +1,54 @@
+{
+    "profile": "data-package",
+    "name": "swarthmore-college-s-peace-collection-data",
+    "title": "Swarthmore College&#39;s Peace Collection Data",
+    "description": "Metadata and data derived from Swarthmore College&#39;s Peace Collection. The Description",
+    "keywords":  ["swat"," nice"," lol"],
+    "homepage": "http://localhost:4000/",
+    "contributors": [
+        {
+            "title": "Swarthmore College",
+            "path": "https://liblab.swarthmore.edu/",
+            "role": "author"
+        }
+    ],
+    "image": "https://objects.lib.uidaho.edu/crabtree/crabtree-banner.jpg",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "Swarthmore College&#39;s Peace Collection Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        
+        
+        
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Swarthmore College&#39;s Peace Collection full metadata in csv",
+            "description": "Complete metadata export for Swarthmore College&#39;s Peace Collection objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Swarthmore College&#39;s Peace Collection full metadata in json",
+            "description": "Complete metadata export for Swarthmore College&#39;s Peace Collection objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}

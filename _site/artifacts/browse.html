@@ -1,0 +1,568 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Browse Artifacts | Swarthmore College&#39;s Peace Collection</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Swarthmore_logo_from_NCAA.svg/2048px-Swarthmore_logo_from_NCAA.svg.png">
+<!--
+
+  _____     ____        __  _           ___       _ __   __       
+ / ___/__  / / /__ ____/ /_(_)__  ___  / _ )__ __(_) /__/ /__ ____
+/ /__/ _ \/ / / -_) __/ __/ / _ \/ _ \/ _  / // / / / _  / -_) __/
+\___/\___/_/_/\__/\__/\__/_/\___/_//_/____/\_,_/_/_/\_,_/\__/_/   
+                                                                
+    built with CollectionBuilder-CSV
+    https://github.com/CollectionBuilder/collectionbuilder-csv
+-->
+<meta name="generator" content="collectionbuilder-csv" />
+<meta http-equiv="Content-Language" content="en-us" >
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://www.lib.uidaho.edu/assets/bootstrap5/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="/assets/css/cb.css" type="text/css">
+
+
+<!-- Last build date: 2025-06-03
+base-digital-collections-template, metadata: crabtree_artifacts
+https://github.com/ahmad-fayyaz/liblab_peace_collections 
+-->
+  </head>
+  <body class="d-flex flex-column h-100">
+    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    <div class="container">
+    <div class="row align-items-center">
+        <div id="title" class="col-12">
+            <h1 class="mt-2"><a class="text-dark" href="/" >Swarthmore College's Peace Collection</a></h1>	 
+            <p>Digital Collection</p>
+        </div>
+        
+    </div>
+</div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#page-nav" aria-controls="page-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        
+        
+        <div class="collapse navbar-collapse" id="page-nav">
+            <ul class="navbar-nav me-auto">
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/learn.html">Learn</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link  dropdown-toggle active" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Collection</a>
+                    <div class="dropdown-menu">
+                        
+                        <a class="dropdown-item active" href="/artifacts/browse.html">Browse</a>
+                        
+                        <a class="dropdown-item " href="/artifacts/cloud.html">Categories</a>
+                        
+                        <a class="dropdown-item " href="/artifacts/data.html">Data</a>
+                        
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown">
+                    <a class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+                    <div class="dropdown-menu">
+                        
+                        <a class="dropdown-item " href="/about.html">About the Project</a>
+                        
+                        <a class="dropdown-item " href="/digitization.html">Digitization</a>
+                        
+                    </div>
+                </li>
+                </ul>
+            
+            <script>
+    function site_search() {
+        var query = document.getElementById("site-search").value;
+        window.open("/search/index.html?q=" + encodeURIComponent(query), "_self" );
+    }
+</script>
+<form class="form-inline my-2 my-lg-0" role="search" id="search" onsubmit="site_search(); return false;">
+    <div class="input-group">
+        <input id="site-search" class="form-control " type="text" placeholder="Search" aria-label="Search box">
+        <button class="btn btn-light" type="submit">
+            <span id="search-icon"><svg viewBox="0 0 1024 974" height="16px" width="20px"><path d="M960 832L710.875 582.875C746.438 524.812 768 457.156 768 384 768 171.96900000000005 596 0 384 0 171.969 0 0 171.96900000000005 0 384c0 212 171.969 384 384 384 73.156 0 140.812-21.562 198.875-57L832 960c17.5 17.5 46.5 17.375 64 0l64-64C977.5 878.5 977.5 849.5 960 832zM384 640c-141.375 0-256-114.625-256-256s114.625-256 256-256 256 114.625 256 256S525.375 640 384 640z"/></svg></span>
+            <span class="visually-hidden">Search</span>
+        </button>
+    </div>
+</form>
+            
+        </div>
+    </div>
+</nav>
+
+    <main id="maincontent" role="main" class="flex-shrink-0">
+      <div class="container my-4">
+  <h2 id="browse-artifacts">Browse Artifacts</h2>
+
+
+<div class="row mb-3 justify-content-center">
+    <div class="col-md-8 text-center">
+        <form role="search" id="lunrSearch" onsubmit="submitFilter(); return false;">
+            <div class="input-group input-group-lg">
+                <input type="text" class="form-control" id="filterTextBox" placeholder="Filter ... " aria-label="Search"> 
+                <button class="btn btn-success" type="submit" title="Filter items" id="filterButton" >Search</button>
+                <button class="btn btn-outline-secondary filter" onclick="resetFilter(); return false;" data-filter="">Reset</button>
+            </div>
+        </form>
+        <div class="h2" id="numberOf"></div>
+    </div>
+    <div class="col-md-2">
+        <div class="dropdown">
+            <button class="btn btn-secondary mt-1 dropdown-toggle" type="button" id="browseSortButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Sort by <span id="sortFilter">Random</span>
+            </button>
+            <div class="dropdown-menu browse-sort-menu" aria-labelledby="browseSortButton">
+                <button class="dropdown-item browse-sort-item active" data-filter="random">Random</button>
+                <button class="dropdown-item browse-sort-item" data-filter="title">Title</button>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="loadingIcon" class="text-center">
+    <div class="spinner-border text-dark" role="status"><span class="visually-hidden">Loading...</span></div>
+</div>
+
+<div class="row" id="browseItems"></div>
+
+</div>
+    </main>
+    <footer class="bg-dark pt-4 mt-auto container-fluid">
+
+    <div class="row border-bottom border-white pb-4 mb-2">
+
+        <div class="col-md-7 px-4 mt-3">
+
+            <h2 class="h4"><a href="/" class="text-white">Swarthmore College's Peace Collection</a></h2>
+            <p class="text-white"><small>The Description</small></p>
+            <nav>
+                <ul id="footer-nav" class="nav nav-pills ">
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/learn.html">Learn</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light active" href="/artifacts/browse.html">Collection</a>
+                    
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/about.html">About</a>
+                    
+                    </li></ul>
+            </nav>
+
+        </div>
+
+        <div class="col-md-5 mt-3 text-center">
+
+            
+            <p class="text-white text-md-end" id="footer-credits">
+                <small><em>built with</em> <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" class="text-white text-decoration-underline" >CollectionBuilder</a></small>
+            </p>
+            <p class="text-md-end">
+                <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_eqZdsQyel8sKBAG?source_link=http://localhost:4000/artifacts/browse.html" target="_blank" rel="noopener" class="btn btn-sm btn-outline-clearwater text-white">Website Feedback</a>
+            </p>
+
+        </div>
+
+    </div>
+    <div class="text-center pt-4 pb-3">
+        <p class="h2 mb-3">
+            <a href="https://www.lib.uidaho.edu/digital/" title="Swarthmore College home" class="text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi icon-sprite" viewBox="0 0 16 16" aria-hidden="true">
+                        <path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294l4-13zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0zm6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0z"/>
+                </svg>
+                Digital Initiatives
+            </a>
+        </p>
+        <p class="text-white h6">Last updated 2025</p>
+    </div>
+
+</footer>
+    <!-- Bootstrap bundle JS -->
+<script src="https://www.lib.uidaho.edu/assets/bootstrap5/bootstrap.bundle.min.js"></script>
+<!-- load other js -->
+<script src="https://www.lib.uidaho.edu/assets/js/lazysizes.min.js" async></script>
+
+<script>
+
+/* add items */
+var items = [
+    
+    { "creator":"Crabtree, Donald \"Don\" E.","type_point":"biface","material":"siltstone","material_source":"Oreana, Idaho","identifier":"CE_CA_D1_1611-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d1_1611-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.1611",
+        "id":"ce_ca_d1_1611-a" },
+    { "type_point":"projectile point","material":"cryptocrystalline silicate","identifier":"CE_CA_D2_6500-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_6500-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.6500",
+        "id":"ce_ca_d2_6500-a" },
+    { "creator":"Crabtree, Donald \"Don\" E.","type_point":"blade","material":"obsidian","identifier":"CE_CA_D2_7241-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7241-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.7241",
+        "id":"ce_ca_d2_7241-a" },
+    { "creator":"Laccetti, M.F.","type_point":"comparative piece","material":"chert","material_source":"New York","identifier":"CE_CA_D2_7940_model","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7940-a_th.jpg","template": "3d model",
+        "title":"Ce.7940",
+        "id":"ce_ca_d2_7940_model" },
+    { "creator":"Crabtree, Donald \"Don\" E.","type_point":"projectile point","material":"ignimbrite","identifier":"CE_CA_D3_9204-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d3_9204-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.9204",
+        "id":"ce_ca_d3_9204-a" },
+    { "creator":"Crabtree, Donald \"Don\" E.","type_point":"projectile point","material":"ignimbrite","identifier":"CE_CA_D3_9208-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d3_9208-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.9208",
+        "id":"ce_ca_d3_9208-a" },
+    { "date":"1975-80","creator":"Crabtree, Donald \"Don\" E.","type_point":"projectile point","material":"obsidian","material_source":"Glass Butte, Oregon","identifier":"CE_CC_D2_1950_model","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1950-a_th.jpg","template": "3d model",
+        "title":"Ce.1950",
+        "id":"ce_cc_d2_1950_model" },
+    { "date":"1972","creator":"Crabtree, Donald \"Don\" E.","type_point":"projectile point","material":"cryptocrystalline silicate","identifier":"CE_CC_D2_1951_model","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-a_th.jpg","template": "3d model",
+        "title":"Ce.1951",
+        "id":"ce_cc_d2_1951_model" },
+    { "creator":"Crabtree, Donald \"Don\" E.","type_point":"projectile point","material":"flint","material_source":"Grand-Pressigny, France","identifier":"CE_CC_D2_1952-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1952-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.1952",
+        "id":"ce_cc_d2_1952-a" },
+    { "creator":"Crabtree, Donald \"Don\" E.","type_point":"projectile point","material":"obsidian","material_source":"Burns, Oregon","identifier":"CE_CC_D2_1953-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1953-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.1953",
+        "id":"ce_cc_d2_1953-a" },
+    { "creator":"Crabtree, Donald \"Don\" E.","type_point":"projectile point","material":"obsidian","material_source":"California","identifier":"CE_CC_D2_1954-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1954-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.1954",
+        "id":"ce_cc_d2_1954-a" },
+    { "date":"1950","creator":"Crabtree, Donald \"Don\" E.","type_point":"biface","material":"colorless glass","identifier":"CE_CE_D1_1152-a","img": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ce_d1_1152-a_th.jpg","template": "artifact image","format": "image/jpeg",
+        "title":"Ce.1152",
+        "id":"ce_ce_d1_1152-a" }];
+
+/* 
+    get a theme icon based on display_template or format 
+    return svg sprite
+*/
+function getIcon(objectTemplate,objectFormat,svgType) {
+    var iconTemplate, iconId, iconTitle;
+    if (objectTemplate && objectTemplate != "") {
+        iconTemplate = objectTemplate;
+    } else if (objectFormat && objectFormat != "") {
+        iconTemplate = objectFormat;
+    } else {
+        iconTemplate = ""
+    }
+    // choose icon
+    if (iconTemplate.includes("image")) {
+        iconId = "icon-image";
+        iconTitle = "image file icon";
+    } else if (iconTemplate.includes("pdf")) {
+        iconId = "icon-pdf";
+        iconTitle = "pdf file icon";
+    } else if (iconTemplate.includes("video")) {
+        iconId = "icon-video";
+        iconTitle = "video file icon";
+    } else if (iconTemplate.includes("audio")) {
+        iconId = "icon-audio";
+        iconTitle = "audio file icon";
+    } else if (iconTemplate.includes("panorama")) {
+        iconId = "icon-panorama";
+        iconTitle = "panorama file icon";
+    } else if (iconTemplate.includes("compound")) {
+        iconId = "icon-compound-object";
+        iconTitle = "compound object icon";
+    } else if (iconTemplate.includes("multiple")) {
+        iconId = "icon-multiple";
+        iconTitle = "multiple object icon";
+    } else {
+        iconId = "icon-default";
+        iconTitle = "file icon";
+    }
+    if (svgType == "thumb") {
+        // svg sprite as thumb
+        return '<svg class="bi text-body" fill="currentColor" role="img"><title>' + iconTitle + '</title><use xlink:href="/assets/lib/cb-icons.svg#' + iconId + '"/></svg>';
+    } else if (svgType == "hidden") {
+        // svg as sprite with aria-hidden
+        return '<svg class="bi icon-sprite" aria-hidden="true"><use xlink:href="/assets/lib/cb-icons.svg#' + iconId + '"/></svg>';
+    } else {
+        // svg as sprite
+        return '<svg class="bi icon-sprite" aria-label="' + iconTitle + '"><use xlink:href="/assets/lib/cb-icons.svg#' + iconId + '"/></svg>';
+    }
+}
+
+
+/* function to create cards for each item */ 
+function makeCard(obj) {
+    // placeholder image for lazyload
+    var placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E";
+    // find item link
+    var itemHref = `/items/${ obj.parent ? obj.parent + ".html#" + obj.id : obj.id + ".html"}`; 
+    // find image
+    var imgSrc, thumbIcon;
+    // if there is a thumb in the csv display it
+    if(obj.img) {
+        imgSrc = obj.img;
+    // else add an icon based on display_template or format
+    } else {
+        thumbIcon = getIcon(obj.template,obj.format,"thumb");
+    }
+    var imgAlt = obj.alt ? obj.alt : obj.title;
+    
+    // add blur feature for sensitive objects
+    if(obj.sensitive){
+        var blur = 'blur';
+        var warning = '<p class="text-danger small">Warning: This image is of a graphic nature.</p>';
+    } else {
+        var blur = '';
+        var warning = '';
+    }
+
+    // start card
+    var card = '<div class="item col-lg-4 col-md-6 mb-2"><div class="card">';
+    // top image for items with image
+    if(imgSrc) {
+        card += '<a href="' + itemHref + '"> <img class="card-img-top lazyload ' + blur + '" src="' + placeholder + '" data-src="' + imgSrc + '" alt="' + imgAlt + '"></a>';
+    }
+    // title
+    card += '<div class="card-body text-center">' + warning + '<h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3>';
+    // icon thumb for item without image
+    if(thumbIcon){
+        card += '<p><a href="' + itemHref + '">' + thumbIcon + '</a></p>';
+    }
+    // other fields
+    card += '<p class="card-text">';
+    
+    if(obj["date"]){
+    card += '<strong>Date:</strong> ';
+    
+    card += obj["date"];
+    
+    card += '<br>';
+    }
+    
+    if(obj["creator"]){
+    card += '<strong>Creator:</strong> ';
+    
+    card += obj["creator"];
+    
+    card += '<br>';
+    }
+    
+    if(obj["type_point"]){
+    card += '<strong>Type:</strong> ';
+    
+    var btns = obj["type_point"].split(";");
+    for (var i = 0, len = btns.length; i < len; i++) {
+        if(btns[i] != "") {
+        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="/artifacts/browse.html#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
+        }
+    }
+    
+    card += '<br>';
+    }
+    
+    if(obj["material"]){
+    card += '<strong>Material:</strong> ';
+    
+    var btns = obj["material"].split(";");
+    for (var i = 0, len = btns.length; i < len; i++) {
+        if(btns[i] != "") {
+        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="/artifacts/browse.html#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
+        }
+    }
+    
+    card += '<br>';
+    }
+    
+    if(obj["material_source"]){
+    card += '<strong>Material Source:</strong> ';
+    
+    var btns = obj["material_source"].split(";");
+    for (var i = 0, len = btns.length; i < len; i++) {
+        if(btns[i] != "") {
+        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="/artifacts/browse.html#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
+        }
+    }
+    
+    card += '<br>';
+    }
+    
+    card += '</p>';
+    // media type
+    if(obj.template && obj.template != "") {
+        mediaIcon = getIcon(obj.template,obj.format,"hidden");
+        card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="/artifacts/browse.html#' + encodeURIComponent(obj.template) + '">' + 
+        obj.template.toUpperCase() + ' ' + mediaIcon + '</a></small></p>';
+    }
+    // view button
+    card += '<hr><a href="' + itemHref + '" class="btn btn-sm btn-light" title="link to ' + obj.title + '">View Full Record</a>';
+    // close divs
+    card += '</div></div></div>';
+    // send back big string
+    return card;
+}
+
+/* filter items function */
+function filterItems(arr,q) {
+    // show loading icon
+    loadingIcon.classList.remove("d-none");
+    // dont filter if no q 
+    if (q=="") { 
+        var filteredItems = arr; 
+    } else {
+        q = q.trim().toUpperCase(); 
+        // js indexOf filter
+        var filteredItems = [];
+        for (var i = 0, len = arr.length; i < len; i++) {
+            var val = "";
+        for (var k in arr[i]) { val += arr[i][k] + " "; }
+            if(val.toUpperCase().indexOf(q) != -1){
+                filteredItems.push(arr[i]);
+            }
+        }
+    }
+    // add number 
+    document.querySelector("#numberOf").innerHTML = filteredItems.length + " of 12 items";
+    
+    // add stuff, make cards first in giant var, then add all at once to speed things up
+    var cards = "";
+    for (var i = 0, len = filteredItems.length; i < len; i++) {
+        cards += makeCard(filteredItems[i]);
+    }
+    browseItemsDiv.innerHTML = cards;
+
+    // finish
+    filterButton.focus();
+    loadingIcon.classList.add("d-none");
+};
+
+/* Fisher-Yates shuffle https://bost.ocks.org/mike/shuffle/ */
+function shuffle(array) {
+    var m = array.length, t, i;
+    while (m) {
+        i = Math.floor(Math.random() * m--);
+        t = array[m];
+        array[m] = array[i];
+        array[i] = t;
+    }
+    return array;
+}
+
+/* init browse page */
+
+/* randomize items once at page load */
+shuffle(items);
+
+/* set some elements */ 
+var loadingIcon = document.querySelector("#loadingIcon");
+var filterTextBox = document.querySelector('#filterTextBox');
+var filterButton = document.querySelector("#filterButton");
+var browseItemsDiv = document.querySelector("#browseItems");
+
+/* filter if hash in initial URL */
+var query = "";
+if(window.location.hash) {
+    query = decodeURIComponent(location.hash.substr(1));
+    filterTextBox.value = query;
+    filterItems(items,query);
+} else {
+    query = "";
+    filterItems(items,query);
+}
+
+/* filter form */
+function submitFilter() {
+    query = filterTextBox.value;
+    window.location.hash = encodeURIComponent(query);
+}
+/* reset filters */ 
+function resetFilter() {
+    query = "";
+    filterTextBox.value = query;
+    window.location.hash = encodeURIComponent(query);
+}
+
+/* filter if hash changes */ 
+window.addEventListener("hashchange", function() {
+    // read hash
+    query = decodeURIComponent(location.hash.substr(1));
+    filterTextBox.value = query;
+    // filter
+    filterItems(items,query);
+});
+
+/* item array sorting function */
+function sorting(json_object, key_to_sort_by) {
+    function sortByKey(a, b) {
+        var x = a[key_to_sort_by];
+        var y = b[key_to_sort_by];
+        if (typeof x === 'string' ) { x = x.toUpperCase(); }
+        if (typeof y === 'string' ) { y = y.toUpperCase(); }
+        return ((x==null) ? 1: (y==null) ? -1: (x < y) ? -1 : ((x > y) ? 1 : 0));
+    }
+    json_object.sort(sortByKey);
+};
+
+/* add sort function on click of sort options */
+var sortFilter = document.querySelector("#sortFilter");
+var sortOptions = document.querySelectorAll(".browse-sort-item");
+sortOptions.forEach((button) => {
+  button.addEventListener("click", (event) => {
+    // get the sort field
+    var field = button.dataset.filter;
+    var display_name = button.textContent;
+    // get current filter
+    var query = filterTextBox.value;
+    // switch active sort option
+    sortOptions.forEach((option) => { option.classList.remove("active"); } );
+    button.classList.add("active");
+    sortFilter.innerHTML = display_name;
+    // send to sort and filter
+    if (field != 'random') {
+        sorting(items, field);
+        filterItems(items, query);
+    }
+    else {
+        shuffle(items);
+        filterItems(items, query);
+    }
+  });
+}); 
+
+</script>
+
+
+    <script>
+    // When the user scrolls down from the top of the document, show the button
+    window.onscroll = function () {
+        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+            document.getElementById("scroll-to-top").style.display = "block";
+        } else {
+            document.getElementById("scroll-to-top").style.display = "none";
+        }
+    }
+    // scroll to top function
+    function scrollToTop() {
+        window.scroll({
+            top: 0, 
+            left: 0, 
+            behavior: 'smooth'
+        });
+    }
+</script>
+<button id="scroll-to-top" type="button" class="btn btn-link" onclick="scrollToTop();" title="Back to Top" aria-label="Back to Top">
+    <svg class="bi icon-sprite" role="img" aria-label="Up Arrow">
+        <use xlink:href="/assets/lib/cb-icons.svg#icon-back-to-top"/>
+    </svg>
+</button>
+  </body>
+</html>
