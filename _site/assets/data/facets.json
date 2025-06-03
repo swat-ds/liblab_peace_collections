@@ -23,44 +23,29 @@
         {
             "field": "type_point",
             "terms": { 
-                "projectile point": 18,
-                "biface": 6,
-                "comparative piece": 3,
-                "blade": 2
+                "projectile point": 3
             }
         },
         {
             "field": "material",
             "terms": { 
-                "obsidian": 9,
-                "cryptocrystalline silicate": 5,
-                "ignimbrite": 4,
-                "colorless glass": 4,
-                "chert": 3,
-                "siltstone": 2,
-                "flint": 2
+                "cryptocrystalline silicate": 3
             }
         },
         {
             "field": "material_source",
             "terms": { 
-                "n/a": 15,
-                "new york": 3,
-                "glass butte, oregon": 3,
-                "oreana, idaho": 2,
-                "grand-pressigny, france": 2,
-                "burns, oregon": 2,
-                "california": 2
+                "n/a": 3
             }
         },
         {
             "field": "format",
             "terms": { 
-                "image/jpeg": 26,
-                "model/mtl": 3,
-                "model/obj": 3,
-                "model/stl": 3,
-                "model/x3d": 3
+                "image/jpeg": 2,
+                "model/mtl": 1,
+                "model/obj": 1,
+                "model/stl": 1,
+                "model/x3d": 1
             }
         }
         
