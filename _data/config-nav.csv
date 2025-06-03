@@ -1,8 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/,
 Learn,/learn.html,
-Collection,,
-Browse,/artifacts/browse.html,Collection
+Browse Collection,/artifacts/browse.html,
 Categories,/artifacts/cloud.html,Collection
 Data,/artifacts/data.html,Collection
 About,/about.html,

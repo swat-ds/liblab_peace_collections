@@ -25,7 +25,7 @@
 
 
 <!-- Last build date: 2025-06-03
-base-digital-collections-template, metadata: crabtree_artifacts
+base-digital-collections-template, metadata: artifacts
 https://github.com/ahmad-fayyaz/liblab_peace_collections 
 -->
   </head>
@@ -58,19 +58,10 @@ https://github.com/ahmad-fayyaz/liblab_peace_collections
                 <li class="nav-item">
                     <a class="nav-link" href="/learn.html">Learn</a>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link  dropdown-toggle active" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Collection</a>
-                    <div class="dropdown-menu">
-                        
-                        <a class="dropdown-item " href="/artifacts/browse.html">Browse</a>
-                        
-                        <a class="dropdown-item " href="/artifacts/cloud.html">Categories</a>
-                        
-                        <a class="dropdown-item active" href="/artifacts/data.html">Data</a>
-                        
-                    </div>
-                </li>
                 
+                <li class="nav-item">
+                    <a class="nav-link" href="/artifacts/browse.html">Browse Collection</a>
+                </li>
                 
                 <li class="nav-item">
                     <a class="nav-link" href="/about.html">About</a>
@@ -160,16 +151,6 @@ Use the “CSV” button below to download the filtered metadata you see on the 
         <thead>
             <tr>
                 
-                <th scope="col">Title</th>
-                
-                <th scope="col">Type</th>
-                
-                <th scope="col">Material</th>
-                
-                <th scope="col">Source</th>
-                
-                <th scope="col">Identifier</th>
-                
                 <th>Link</th>
             </tr>
         </thead>
@@ -198,8 +179,7 @@ Use the “CSV” button below to download the filtered metadata you see on the 
                     </li>
                     <li class="nav-item">
                     
-                        <a class="nav-link text-light" href="/artifacts/browse.html">Collection</a>
-                    
+                        <a class="nav-link text-light" href="/artifacts/browse.html">Browse Collection</a>
                     </li>
                     <li class="nav-item">
                     
@@ -243,7 +223,7 @@ Use the “CSV” button below to download the filtered metadata you see on the 
 $(document).ready( function () {
     $('#item-table').DataTable( {
         // use DataTables ajax load 
-        ajax: { url: '/assets/js/crabtree_artifacts.min.json', dataSrc: 'objects' },
+        ajax: { url: '/assets/js/artifacts.min.json', dataSrc: 'objects' },
         // defer render to speed up large sets
         "deferRender": true,
         // enable pagination 
@@ -253,14 +233,14 @@ $(document).ready( function () {
         dom: 'B<"row mt-2"<"col-md-6"l><"col-md-6"f>>t<"row"<"col-md-6"i><"col-md-6"p>>', 
         buttons: [ 'excelHtml5', 'csvHtml5' ],
         // get the data from json
-        columns: [ { data: '0' },{ data: '1' },{ data: '2' },{ data: '3' },{ data: '4' },{ data: '5' } ],
+        columns: [ { data: '0' } ],
         columnDefs: [ 
             // turn relative link into absolute
-            { "render": function ( data ) { return '/' + data; },"targets": 5 },
+            { "render": function ( data ) { return '/' + data; },"targets": 0 },
             // combine link with first column
-            { "render": function ( data, type, row ) { return '<a href="' + row['5'] +'">'+ data +'</a>'; },"targets": 0 },
+            { "render": function ( data, type, row ) { return '<a href="' + row['0'] +'">'+ data +'</a>'; },"targets": 0 },
             // hide the link column
-            { "visible": false,  "targets": [ 5 ] }
+            { "visible": false,  "targets": [ 0 ] }
         ],
         // sort based on the second column
         order: [[ 1, "asc" ]]
