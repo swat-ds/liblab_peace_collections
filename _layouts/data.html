@@ -1,0 +1,24 @@
+---
+# "Data" page with table and data download options
+layout: page
+custom-foot: js/table-js.html 
+---
+{%- assign config-file = 'config-table_' | append: page.metadata | remove: '_test' -%}
+{% assign fields = site.data[config-file] | map: 'display_name' %}
+{% include crabtree-data-download.html %}
+
+{{ content }}
+
+<div class="table-responsive-md">
+    <table id="item-table" class="table table-striped">
+        <thead>
+            <tr>
+                {% for f in fields %}
+                <th scope="col">{{ f }}</th>
+                {% endfor %}
+                <th>Link</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+    
