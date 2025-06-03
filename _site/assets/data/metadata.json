@@ -1,13 +1,11 @@
 { "objects": [{ 
-        "objectid": "ce_cc_d2_1951_model",
+        "objectid": "1",
         
-        "title": "Ce.1951",
-        "creator": "Crabtree, Donald \"Don\" E.",
-        "date": "1972",
-        "date_archival": "1972",
+        "title": "LibLab Bear",
+        "creator": "AF",
+        "date": "2024",
+        
         "date_is_approximate": "yes",
-        "description": "Folsom, basally ground",
-        "subject": "experimental artifacts; lithics",
         
         
         
@@ -16,27 +14,29 @@
         
         
         
-        "identifier": "CE_CC_D2_1951_model",
         
-        "cabinet": "C",
-        "drawer": "2",
-        "box": "N/A",
-        "bag": "N/A",
-        "type_point": "projectile point",
-        "material": "cryptocrystalline silicate",
-        "material_source": "N/A",
-        "length_mm": "52.08",
-        "width_mm": "20.45",
-        "thickness_mm": "4.31",
-        "weight_g": "5.9",
+        
+        "identifier": "Bear",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         "count": "1",
-        "source": "Donald E. Crabtree Lithic Technology Collection, Alfred W. Bowers Laboratory of Anthropology, University of Idaho",
         
         
-        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+        
+        
         "student_initials": "AF",
         
-        "original_format": "artifact",
+        
         "type": "InteractiveResource;3DObject",
         
         
@@ -44,17 +44,20 @@
         "display_template": "3d_model",
         
         "extension": "jpg",
-        "box_num": "CC",
-        "folder_num": "D2",
-        "id_num": "1951",
         
-        "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-a_th.jpg",
-        "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html"
+        
+        
+        
+        "object_thumb": "https://swat-ds.github.io/peace-collection//Images/bear.png",
+        "object_location": "https://swat-ds.github.io/peace-collection//Images/bear.png",
+        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html"
     },
     { 
-        "objectid": "ce_cc_d2_1951_model_mtl",
-        "parentid": "ce_cc_d2_1951_model",
+        "objectid": "2",
+        "parentid": "1",
+        
+        
+        "date": "2024",
         
         
         
@@ -67,6 +70,15 @@
         
         
         
+        "identifier": "Bear",
+        
+        
+        
+        
+        
+        
+        
+        "material_source": "Emily",
         
         
         
@@ -76,18 +88,6 @@
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        "source": "Donald E. Crabtree Lithic Technology Collection, Alfred W. Bowers Laboratory of Anthropology, University of Idaho",
-        
-        
-        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
         
         
         
@@ -97,18 +97,34 @@
         "group": "artifact",
         "display_template": "3d_model_child",
         
-        "extension": "mtl",
+        "extension": "glb",
         
         
         
         
-        "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951_model_th.jpg",
-        "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.mtl",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_mtl"
+        
+        "object_location": "https://swat-ds.github.io/peace-collection//Models/bear.glb",
+        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#2"
     },
     { 
-        "objectid": "ce_cc_d2_1951_model_obj",
-        "parentid": "ce_cc_d2_1951_model",
+        "objectid": "3",
+        "parentid": "1",
+        
+        
+        "date": "2024",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "identifier": "Bear",
         
         
         
@@ -126,22 +142,6 @@
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        "source": "Donald E. Crabtree Lithic Technology Collection, Alfred W. Bowers Laboratory of Anthropology, University of Idaho",
-        
-        
-        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
         
         
         
@@ -151,18 +151,34 @@
         "group": "artifact",
         "display_template": "3d_model_child",
         
-        "extension": "obj",
+        "extension": "glb",
         
         
         
         
-        "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951_model_th.jpg",
-        "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.obj",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_obj"
+        
+        "object_location": "https://swat-ds.github.io/peace-collection//Models/bear.glb",
+        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#3"
     },
     { 
-        "objectid": "ce_cc_d2_1951_model_stl",
-        "parentid": "ce_cc_d2_1951_model",
+        "objectid": "4",
+        "parentid": "1",
+        
+        
+        "date": "2024",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "identifier": "Bear",
         
         
         
@@ -180,22 +196,6 @@
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        "source": "Donald E. Crabtree Lithic Technology Collection, Alfred W. Bowers Laboratory of Anthropology, University of Idaho",
-        
-        
-        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
         
         
         
@@ -205,18 +205,34 @@
         "group": "artifact",
         "display_template": "3d_model_child",
         
-        "extension": "stl",
+        "extension": "glb",
         
         
         
         
-        "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951_model_th.jpg",
-        "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.stl",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_stl"
+        
+        "object_location": "https://swat-ds.github.io/peace-collection//Models/bear.glb",
+        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#4"
     },
     { 
-        "objectid": "ce_cc_d2_1951_model_x3d",
-        "parentid": "ce_cc_d2_1951_model",
+        "objectid": "5",
+        "parentid": "1",
+        
+        
+        "date": "2024",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "identifier": "Bear",
         
         
         
@@ -234,22 +250,6 @@
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        "source": "Donald E. Crabtree Lithic Technology Collection, Alfred W. Bowers Laboratory of Anthropology, University of Idaho",
-        
-        
-        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
         
         
         
@@ -259,25 +259,23 @@
         "group": "artifact",
         "display_template": "3d_model_child",
         
-        "extension": "x3d",
+        "extension": "glb",
         
         
         
         
-        "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951_model_th.jpg",
-        "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.x3d",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_x3d"
+        
+        "object_location": "https://swat-ds.github.io/peace-collection//Models/bear.glb",
+        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#5"
     },
     { 
-        "objectid": "ce_cc_d2_1951-a",
-        "parentid": "ce_cc_d2_1951_model",
-        "title": "Ce.1951",
-        "creator": "Crabtree, Donald \"Don\" E.",
-        "date": "1972",
-        "date_archival": "1972",
+        "objectid": "6",
+        "parentid": "1",
+        
+        "creator": "AF",
+        "date": "2024",
+        
         "date_is_approximate": "yes",
-        "description": "Folsom, basally ground",
-        "subject": "experimental artifacts; lithics",
         
         
         
@@ -286,52 +284,52 @@
         
         
         
-        "identifier": "CE_CC_D2_1951-a",
         
-        "cabinet": "C",
-        "drawer": "2",
-        "box": "N/A",
-        "bag": "N/A",
-        "type_point": "projectile point",
-        "material": "cryptocrystalline silicate",
-        "material_source": "N/A",
-        "length_mm": "52.08",
-        "width_mm": "20.45",
-        "thickness_mm": "4.31",
-        "weight_g": "5.9",
+        
+        "identifier": "Bear",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         "count": "1",
-        "source": "Donald E. Crabtree Lithic Technology Collection, Alfred W. Bowers Laboratory of Anthropology, University of Idaho",
         
         
-        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+        
+        
         "student_initials": "AF",
         
-        "original_format": "artifact",
+        
         "type": "Image;StillImage",
         "format": "image/jpeg",
         
         "group": "multiple",
         "display_template": "artifact_image",
         
-        "extension": "jpg",
-        "box_num": "CC",
-        "folder_num": "D2",
-        "id_num": "1951-a",
+        "extension": "png",
         
-        "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-a_th.jpg",
-        "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-a"
+        
+        
+        
+        "object_thumb": "https://swat-ds.github.io/peace-collection//Images/bear.png",
+        "object_location": "https://swat-ds.github.io/peace-collection//Images/bear.png",
+        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#6"
     },
     { 
-        "objectid": "ce_cc_d2_1951-b",
-        "parentid": "ce_cc_d2_1951_model",
-        "title": "Ce.1951",
-        "creator": "Crabtree, Donald \"Don\" E.",
-        "date": "1972",
-        "date_archival": "1972",
+        "objectid": "7",
+        "parentid": "1",
+        
+        "creator": "AF",
+        "date": "2024",
+        
         "date_is_approximate": "yes",
-        "description": "Folsom, basally ground",
-        "subject": "experimental artifacts; lithics",
         
         
         
@@ -340,41 +338,43 @@
         
         
         
-        "identifier": "CE_CC_D2_1951-b",
         
-        "cabinet": "C",
-        "drawer": "2",
-        "box": "N/A",
-        "bag": "N/A",
-        "type_point": "projectile point",
-        "material": "cryptocrystalline silicate",
-        "material_source": "N/A",
-        "length_mm": "52.08",
-        "width_mm": "20.45",
-        "thickness_mm": "4.31",
-        "weight_g": "5.9",
+        
+        "identifier": "Bear",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         "count": "1",
-        "source": "Donald E. Crabtree Lithic Technology Collection, Alfred W. Bowers Laboratory of Anthropology, University of Idaho",
         
         
-        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+        
+        
         "student_initials": "AF",
         
-        "original_format": "artifact",
+        
         "type": "Image;StillImage",
         "format": "image/jpeg",
         
         "group": "artifact",
         "display_template": "image",
         
-        "extension": "jpg",
-        "box_num": "CC",
-        "folder_num": "D2",
-        "id_num": "1951-b",
+        "extension": "png",
         
-        "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-b_th.jpg",
-        "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-b"
+        
+        
+        
+        "object_thumb": "https://swat-ds.github.io/peace-collection//Images/bear.png",
+        "object_location": "https://swat-ds.github.io/peace-collection//Images/bear.png",
+        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#7"
     }
     
 ] }

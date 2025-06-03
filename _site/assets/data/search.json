@@ -9,15 +9,15 @@
         "name": "Swarthmore College", 
         "url": "https://liblab.swarthmore.edu/", 
         "logo": "" 
-    },"date_start": "1972",
-    "date_end": "1972",
+    },"date_start": "2024",
+    "date_end": "2024",
     "objects": { null: "0"},
     "data": "https://swat-ds.github.io/peace-collection//assets/data/datapackage.json",
     "last_build_date": "2025-06-03"
 }, 
 "items":    
 [ 
-    { "thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-a_th.jpg","file": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.jpg","collectionid": "",
-    "objectid": "ce_cc_d2_1951_model",
-    "url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html" }
+    { "thumb": "https://swat-ds.github.io/peace-collection//Images/bear.png","file": "https://swat-ds.github.io/peace-collection//Images/bear.png","collectionid": "",
+    "objectid": "1",
+    "url": "https://swat-ds.github.io/peace-collection//items/1.html" }
 ]}

@@ -13,45 +13,94 @@
     "events": [
       {
         "media": {
-          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1951-a_sm.jpg",
-          "caption": "Ce.1951",
-          "link": "/items/ce_cc_d2_1951_model.html"
+          "url": "/Images/bear.png",
+          "caption": "LibLab Bear",
+          "link": "/items/1.html"
         },
         "start_date": { 
           
-          "year": "1972"
+          "year": "2024"
         },
         "text": {
-          "headline": "Ce.1951",
-          "text": "Folsom, basally ground"
+          "headline": "LibLab Bear"
         }
       },{
         "media": {
-          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1951-a_sm.jpg",
-          "caption": "Ce.1951",
-          "link": "/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-a"
+          "url": "/Models/bear.glb",
+          "caption": null,
+          "link": "/items/1.html#2"
         },
         "start_date": { 
           
-          "year": "1972"
+          "year": "2024"
         },
         "text": {
-          "headline": "Ce.1951",
-          "text": "Folsom, basally ground"
+          "headline": null
         }
       },{
         "media": {
-          "url": "https://objects.lib.uidaho.edu/crabtree/small/ce_cc_d2_1951-b_sm.jpg",
-          "caption": "Ce.1951",
-          "link": "/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-b"
+          "url": "/Models/bear.glb",
+          "caption": null,
+          "link": "/items/1.html#3"
         },
         "start_date": { 
           
-          "year": "1972"
+          "year": "2024"
         },
         "text": {
-          "headline": "Ce.1951",
-          "text": "Folsom, basally ground"
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Models/bear.glb",
+          "caption": null,
+          "link": "/items/1.html#4"
+        },
+        "start_date": { 
+          
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Models/bear.glb",
+          "caption": null,
+          "link": "/items/1.html#5"
+        },
+        "start_date": { 
+          
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Images/bear.png",
+          "caption": null,
+          "link": "/items/1.html#6"
+        },
+        "start_date": { 
+          
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Images/bear.png",
+          "caption": null,
+          "link": "/items/1.html#7"
+        },
+        "start_date": { 
+          
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
         }
       }
     ]

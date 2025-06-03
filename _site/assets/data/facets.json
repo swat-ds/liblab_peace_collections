@@ -23,19 +23,17 @@
         {
             "field": "type_point",
             "terms": { 
-                "projectile point": 3
             }
         },
         {
             "field": "material",
             "terms": { 
-                "cryptocrystalline silicate": 3
             }
         },
         {
             "field": "material_source",
             "terms": { 
-                "n/a": 3
+                "emily": 1
             }
         },
         {
