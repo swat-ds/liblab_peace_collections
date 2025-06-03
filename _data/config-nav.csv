@@ -5,6 +5,4 @@ Collection,,
 Browse,/artifacts/browse.html,Collection
 Categories,/artifacts/cloud.html,Collection
 Data,/artifacts/data.html,Collection
-About,,
-About the Project,/about.html,About
-Digitization,/digitization.html,About
+About,/about.html,
