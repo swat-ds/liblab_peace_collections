@@ -2,7 +2,7 @@
 
 Powered by Spotlight gallery, https://github.com/nextapps-de/spotlight
 
-Used to add full screen view to item pages, potentially with support for multiple images or for browse (not currently implemented, for example see items in [HJCCC](https://www.lib.uidaho.edu/digital/hjccc/)).
+Used to add full screen view to item pages, potentially with support for multiple images or for browse (not currently implemented.
 
 Add assets and basic initialization to any page by adding front matter `gallery: true`. 
 
