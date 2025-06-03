@@ -1,7 +1,7 @@
 { "collection": {
     "id": "",
     "title": "Swarthmore College's Peace Collection",
-    "url": "https://swat-ds.github.io/peace-collection//",
+    "url": "http://localhost:4000/",
     "image": "https://www.swarthmore.edu/sites/default/files/assets/images/campus-tour/libraries_hdr_200318_homepage_h_3500.jpg", 
     "description": "The Description",
     
@@ -12,12 +12,12 @@
     },"date_start": "1972",
     "date_end": "1972",
     "objects": { null: "0"},
-    "data": "https://swat-ds.github.io/peace-collection//assets/data/datapackage.json",
+    "data": "http://localhost:4000/assets/data/datapackage.json",
     "last_build_date": "2025-06-03"
 }, 
 "items":    
 [ 
     { "thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-a_th.jpg","file": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.jpg","collectionid": "",
     "objectid": "ce_cc_d2_1951_model",
-    "url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html" }
+    "url": "http://localhost:4000/items/ce_cc_d2_1951_model.html" }
 ]}

@@ -15,7 +15,7 @@ baseurl:
 source-code: https://github.com/ahmad-fayyaz/liblab_peace_collections
 
 # url to the shared assets folder on mainweb
-digital-assets: https://www.lib.uidaho.edu/assets ## important for css files, change later to local
+digital-assets: https://www.lib.uidaho.edu/assets
 
 ##########
 # SITE SETTINGS

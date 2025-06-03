@@ -1,4 +1,4 @@
 subject,count,link
-"experimental artifacts",3,"https://swat-ds.github.io/peace-collection//browse.html#experimental%20artifacts"
-"lithics",3,"https://swat-ds.github.io/peace-collection//browse.html#lithics"
-"crabtree, donald "don" e.",3,"https://swat-ds.github.io/peace-collection//browse.html#crabtree,%20donald%20%22don%22%20e."
+"experimental artifacts",3,"http://localhost:4000/browse.html#experimental%20artifacts"
+"lithics",3,"http://localhost:4000/browse.html#lithics"
+"crabtree, donald "don" e.",3,"http://localhost:4000/browse.html#crabtree,%20donald%20%22don%22%20e."
