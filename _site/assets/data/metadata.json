@@ -50,7 +50,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d1_1611-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D1_1611-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d1_1611-a.html"
+        "reference_url": "http://localhost:4000/items/ce_ca_d1_1611-a.html"
     },
     { 
         "objectid": "ce_ca_d1_1611-b",
@@ -104,7 +104,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d1_1611-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D1_1611-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d1_1611-a.html#ce_ca_d1_1611-b"
+        "reference_url": "http://localhost:4000/items/ce_ca_d1_1611-a.html#ce_ca_d1_1611-b"
     },
     { 
         "objectid": "ce_ca_d2_6500-a",
@@ -158,7 +158,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_6500-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_6500-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_6500-a.html"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_6500-a.html"
     },
     { 
         "objectid": "ce_ca_d2_6500-b",
@@ -212,7 +212,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_6500-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_6500-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_6500-a.html#ce_ca_d2_6500-b"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_6500-a.html#ce_ca_d2_6500-b"
     },
     { 
         "objectid": "ce_ca_d2_7241-a",
@@ -266,7 +266,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7241-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7241-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7241-a.html"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7241-a.html"
     },
     { 
         "objectid": "ce_ca_d2_7241-b",
@@ -320,7 +320,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7241-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7241-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7241-a.html#ce_ca_d2_7241-b"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7241-a.html#ce_ca_d2_7241-b"
     },
     { 
         "objectid": "ce_ca_d2_7940_model",
@@ -374,7 +374,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7940-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7940_model.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7940_model.html"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7940_model.html"
     },
     { 
         "objectid": "ce_ca_d2_7940_model_mtl",
@@ -428,7 +428,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7940_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7940_model.mtl",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7940_model.html#ce_ca_d2_7940_model_mtl"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7940_model.html#ce_ca_d2_7940_model_mtl"
     },
     { 
         "objectid": "ce_ca_d2_7940_model_obj",
@@ -482,7 +482,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7940_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7940_model.obj",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7940_model.html#ce_ca_d2_7940_model_obj"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7940_model.html#ce_ca_d2_7940_model_obj"
     },
     { 
         "objectid": "ce_ca_d2_7940_model_stl",
@@ -536,7 +536,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7940_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7940_model.stl",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7940_model.html#ce_ca_d2_7940_model_stl"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7940_model.html#ce_ca_d2_7940_model_stl"
     },
     { 
         "objectid": "ce_ca_d2_7940_model_x3d",
@@ -590,7 +590,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7940_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7940_model.x3d",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7940_model.html#ce_ca_d2_7940_model_x3d"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7940_model.html#ce_ca_d2_7940_model_x3d"
     },
     { 
         "objectid": "ce_ca_d2_7940-a",
@@ -644,7 +644,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7940-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7940-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7940_model.html#ce_ca_d2_7940-a"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7940_model.html#ce_ca_d2_7940-a"
     },
     { 
         "objectid": "ce_ca_d2_7940-b",
@@ -698,7 +698,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d2_7940-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D2_7940-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d2_7940_model.html#ce_ca_d2_7940-b"
+        "reference_url": "http://localhost:4000/items/ce_ca_d2_7940_model.html#ce_ca_d2_7940-b"
     },
     { 
         "objectid": "ce_ca_d3_9204-a",
@@ -752,7 +752,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d3_9204-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D3_9204-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d3_9204-a.html"
+        "reference_url": "http://localhost:4000/items/ce_ca_d3_9204-a.html"
     },
     { 
         "objectid": "ce_ca_d3_9204-b",
@@ -806,7 +806,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d3_9204-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D3_9204-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d3_9204-a.html#ce_ca_d3_9204-b"
+        "reference_url": "http://localhost:4000/items/ce_ca_d3_9204-a.html#ce_ca_d3_9204-b"
     },
     { 
         "objectid": "ce_ca_d3_9208-a",
@@ -860,7 +860,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d3_9208-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D3_9208-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d3_9208-a.html"
+        "reference_url": "http://localhost:4000/items/ce_ca_d3_9208-a.html"
     },
     { 
         "objectid": "ce_ca_d3_9208-b",
@@ -914,7 +914,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ca_d3_9208-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CA_D3_9208-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ca_d3_9208-a.html#ce_ca_d3_9208-b"
+        "reference_url": "http://localhost:4000/items/ce_ca_d3_9208-a.html#ce_ca_d3_9208-b"
     },
     { 
         "objectid": "ce_cc_d2_1950_model",
@@ -968,7 +968,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1950-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1950_model.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1950_model.html"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1950_model.html"
     },
     { 
         "objectid": "ce_cc_d2_1950_model_mtl",
@@ -1022,7 +1022,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1950_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1950_model.mtl",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1950_model.html#ce_cc_d2_1950_model_mtl"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1950_model.html#ce_cc_d2_1950_model_mtl"
     },
     { 
         "objectid": "ce_cc_d2_1950_model_obj",
@@ -1076,7 +1076,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1950_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1950_model.obj",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1950_model.html#ce_cc_d2_1950_model_obj"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1950_model.html#ce_cc_d2_1950_model_obj"
     },
     { 
         "objectid": "ce_cc_d2_1950_model_stl",
@@ -1130,7 +1130,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1950_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1950_model.stl",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1950_model.html#ce_cc_d2_1950_model_stl"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1950_model.html#ce_cc_d2_1950_model_stl"
     },
     { 
         "objectid": "ce_cc_d2_1950_model_x3d",
@@ -1184,7 +1184,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1950_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1950_model.x3d",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1950_model.html#ce_cc_d2_1950_model_x3d"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1950_model.html#ce_cc_d2_1950_model_x3d"
     },
     { 
         "objectid": "ce_cc_d2_1950-a",
@@ -1238,7 +1238,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1950-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1950-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1950_model.html#ce_cc_d2_1950-a"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1950_model.html#ce_cc_d2_1950-a"
     },
     { 
         "objectid": "ce_cc_d2_1950-b",
@@ -1292,7 +1292,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1950-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1950-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1950_model.html#ce_cc_d2_1950-b"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1950_model.html#ce_cc_d2_1950-b"
     },
     { 
         "objectid": "ce_cc_d2_1951_model",
@@ -1346,7 +1346,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1951_model.html"
     },
     { 
         "objectid": "ce_cc_d2_1951_model_mtl",
@@ -1400,7 +1400,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.mtl",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_mtl"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_mtl"
     },
     { 
         "objectid": "ce_cc_d2_1951_model_obj",
@@ -1454,7 +1454,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.obj",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_obj"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_obj"
     },
     { 
         "objectid": "ce_cc_d2_1951_model_stl",
@@ -1508,7 +1508,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.stl",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_stl"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_stl"
     },
     { 
         "objectid": "ce_cc_d2_1951_model_x3d",
@@ -1562,7 +1562,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951_model_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951_model.x3d",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_x3d"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951_model_x3d"
     },
     { 
         "objectid": "ce_cc_d2_1951-a",
@@ -1616,7 +1616,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-a"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-a"
     },
     { 
         "objectid": "ce_cc_d2_1951-b",
@@ -1670,7 +1670,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1951-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1951-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-b"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1951_model.html#ce_cc_d2_1951-b"
     },
     { 
         "objectid": "ce_cc_d2_1952-a",
@@ -1724,7 +1724,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1952-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1952-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1952-a.html"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1952-a.html"
     },
     { 
         "objectid": "ce_cc_d2_1952-b",
@@ -1778,7 +1778,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1952-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1952-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1952-a.html#ce_cc_d2_1952-b"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1952-a.html#ce_cc_d2_1952-b"
     },
     { 
         "objectid": "ce_cc_d2_1953-a",
@@ -1832,7 +1832,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1953-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1953-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1953-a.html"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1953-a.html"
     },
     { 
         "objectid": "ce_cc_d2_1953-b",
@@ -1886,7 +1886,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1953-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1953-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1953-a.html#ce_cc_d2_1953-b"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1953-a.html#ce_cc_d2_1953-b"
     },
     { 
         "objectid": "ce_cc_d2_1954-a",
@@ -1940,7 +1940,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1954-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1954-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1954-a.html"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1954-a.html"
     },
     { 
         "objectid": "ce_cc_d2_1954-b",
@@ -1994,7 +1994,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_cc_d2_1954-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CC_D2_1954-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_cc_d2_1954-a.html#ce_cc_d2_1954-b"
+        "reference_url": "http://localhost:4000/items/ce_cc_d2_1954-a.html#ce_cc_d2_1954-b"
     },
     { 
         "objectid": "ce_ce_d1_1152-a",
@@ -2048,7 +2048,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ce_d1_1152-a_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CE_D1_1152-a.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ce_d1_1152-a.html"
+        "reference_url": "http://localhost:4000/items/ce_ce_d1_1152-a.html"
     },
     { 
         "objectid": "ce_ce_d1_1152-a2",
@@ -2102,7 +2102,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ce_d1_1152-a2_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CE_D1_1152-a2.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-a2"
+        "reference_url": "http://localhost:4000/items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-a2"
     },
     { 
         "objectid": "ce_ce_d1_1152-b",
@@ -2156,7 +2156,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ce_d1_1152-b_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CE_D1_1152-b.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-b"
+        "reference_url": "http://localhost:4000/items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-b"
     },
     { 
         "objectid": "ce_ce_d1_1152-b2",
@@ -2210,7 +2210,7 @@
         
         "object_thumb": "https://objects.lib.uidaho.edu/crabtree/thumbs/ce_ce_d1_1152-b2_th.jpg",
         "object_location": "https://objects.lib.uidaho.edu/crabtree/CE_CE_D1_1152-b2.jpg",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-b2"
+        "reference_url": "http://localhost:4000/items/ce_ce_d1_1152-a.html#ce_ce_d1_1152-b2"
     }
     
 ] }
