@@ -48,9 +48,9 @@
         
         
         
-        "object_thumb": "https://swat-ds.github.io/peace-collection//Images/bear.png",
-        "object_location": "https://swat-ds.github.io/peace-collection//Images/bear.png",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html"
+        "object_thumb": "http://localhost:4000/Images/bear.png",
+        "object_location": "http://localhost:4000/Images/bear.png",
+        "reference_url": "http://localhost:4000/items/1.html"
     },
     { 
         "objectid": "2",
@@ -103,8 +103,8 @@
         
         
         
-        "object_location": "https://swat-ds.github.io/peace-collection//Models/bear.glb",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#2"
+        "object_location": "http://localhost:4000/Models/bear.glb",
+        "reference_url": "http://localhost:4000/items/1.html#2"
     },
     { 
         "objectid": "3",
@@ -157,8 +157,8 @@
         
         
         
-        "object_location": "https://swat-ds.github.io/peace-collection//Models/bear.glb",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#3"
+        "object_location": "http://localhost:4000/Models/bear.glb",
+        "reference_url": "http://localhost:4000/items/1.html#3"
     },
     { 
         "objectid": "4",
@@ -211,8 +211,8 @@
         
         
         
-        "object_location": "https://swat-ds.github.io/peace-collection//Models/bear.glb",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#4"
+        "object_location": "http://localhost:4000/Models/bear.glb",
+        "reference_url": "http://localhost:4000/items/1.html#4"
     },
     { 
         "objectid": "5",
@@ -265,8 +265,8 @@
         
         
         
-        "object_location": "https://swat-ds.github.io/peace-collection//Models/bear.glb",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#5"
+        "object_location": "http://localhost:4000/Models/bear.glb",
+        "reference_url": "http://localhost:4000/items/1.html#5"
     },
     { 
         "objectid": "6",
@@ -318,9 +318,9 @@
         
         
         
-        "object_thumb": "https://swat-ds.github.io/peace-collection//Images/bear.png",
-        "object_location": "https://swat-ds.github.io/peace-collection//Images/bear.png",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#6"
+        "object_thumb": "http://localhost:4000/Images/bear.png",
+        "object_location": "http://localhost:4000/Images/bear.png",
+        "reference_url": "http://localhost:4000/items/1.html#6"
     },
     { 
         "objectid": "7",
@@ -372,9 +372,9 @@
         
         
         
-        "object_thumb": "https://swat-ds.github.io/peace-collection//Images/bear.png",
-        "object_location": "https://swat-ds.github.io/peace-collection//Images/bear.png",
-        "reference_url": "https://swat-ds.github.io/peace-collection//items/1.html#7"
+        "object_thumb": "http://localhost:4000/Images/bear.png",
+        "object_location": "http://localhost:4000/Images/bear.png",
+        "reference_url": "http://localhost:4000/items/1.html#7"
     }
     
 ] }
