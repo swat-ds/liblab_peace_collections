@@ -15,4 +15,4 @@ objectid,parentid,title,creator,date,date_archival,date_is_approximate,descripti
 14,13,,,2025,,,,,,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,artifact,image,/Images/Perrysburg_Back.png,/Images/Perrysburg_Back.png,/Images/Perrysburg_Back.png,png,,,,,,,
 15,,"Key to the City of Ann Arbor, Michigan",Do Ryu,2025,,,,,,,,,,,,,,,,,1,,,,,DY,,,Image;StillImage,image/jpeg,,artifact,image,/Images/Reading_Front.png,/Images/Reading_Front.png,/Images/Reading_Front.png,png,,,,,,,
 16,15,,,2025,,,,,,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,artifact,image,/Images/Reading_Front.png,/Images/Reading_Front.png,/Images/Reading_Front.png,png,,,,,,,
-17,,TestObject2,Do Ryu,2025,,,,,,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,artifact,image,,,,png,,,,,,,
+17,,TestObject2,Do Ryu,2025,,,,,,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/png,,artifact,image,/Images/bear.png,,,png,,,,,,,
