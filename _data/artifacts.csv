@@ -9,3 +9,5 @@ objectid,parentid,title,creator,date,date_archival,date_is_approximate,descripti
 8,,TestObject,DY,2025,,yes,,,Placeholder,,,,,,,DY,,,,,1,,,,,DY,,,Image;StillImage,image/jpeg,,artifact,image,/Images/bear.png,/Images/bear.png,/Images/bear.png,png,,,,,,,
 9,,"Key to the City of Reading, Pennsylvania",Do Ryu,2025,,yes,,,PC-Key,,,,,,metal,,1,1,1,1,1,,English,,,DY,,,Image;StillImage,image/jpeg,,artifact,image,/Images/Reading_Front.png,/Images/Reading_Front.png,/Images/Reading_Front.png,png,,,,,,,
 10,9,,,2025,,yes,,,PC-Key,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,artifact,image,/Images/Reading_Back.png,/Images/Reading_Back.png,/Images/Reading_Back.png,png,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,"Key to the City of Elkhart, Indiana",Eve Umutoni,2025,,yes ,,,PC-Key,,,,,,,EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,
