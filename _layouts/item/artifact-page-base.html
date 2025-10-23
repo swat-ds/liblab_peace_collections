@@ -30,7 +30,10 @@ item-meta: true
         </div>
 
         <div class="col-12 col-md-10" id="metadata">
-
+            <div>
+                <h3>Item Description</h3>
+                </br>
+            </div>
             {%- assign fields = site.data.config-metadata | where_exp: 'item', 'item.display_name != nil' -%}
             <div id="item-metadata" class="table-responsive">
                 <table class="table align-middle">
@@ -38,7 +41,7 @@ item-meta: true
                     {% for f in fields %}{% if page[f.field] %}
                     <tr>
                     <th class="field">{{ f.display_name }}:</th>
-                    <td style="word-wrap: break-word;min-width: 160px;max-width: 160px;" class="field-value">
+                    <td style="word-wrap: break-word;min-width: 160px;max-width: 512px;" class="field-value">
                         {% if f.browse_link == "true" %}
                         {% assign topics = page[f.field] | split: ";" %}
                         {% for t in topics %}
