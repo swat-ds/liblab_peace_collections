@@ -1,39 +1,21 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date_archival,Archival Date,
-date_is_approximate,Date is approximate?,
-date,Date (ISO),,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-bio,Biography,
-interviewee,Interviewee,
-interviewer,Interviewer,
-recipient,Recipient,
-associated_names,Associated names,
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-location_2,Location 2,,,,
-latitude_2,Latitude 2,,,,
-longitude_2,Longitude 2,,,,
-identifier,Source Identifier,,,,
-source,Source,,,,
-doc_length,Document Length,
-cabinet,Cabinet,
-drawer,Drawer,
-box,Box,
-bag,Bag,
-type_point,Object type,
-material,Material,
-material_source,Material source,
-length_mm,Length (mm),
-width_mm,Width (mm),
-thickness_mm,Thickness (mm),
-weight_g,Weight (g),
-count,Count,
-language,Language,
-original_format,Original format,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+field_edtf_date,Date,,,DCTERMS.date,
+field_description_long,Description,,,DCTERMS.description,description
+field_linked_agent,Linked Agents,,,DCTERMS.contributor,
+field_physical_form,Physical Form,,,,
+field_genre,Genre,,,,
+field_extent,Extent,,,DCTERMS.extent,
+field_language,Language,,,DCTERMS.language,
+field_subject,Subject,,,DCTERMS.subject,
+field_subjects_name,Subject Name,,,,
+field_geographic_subject,Geographic Subject,,,,
+field_temporal_subject,Temporal Subject,,,,
+field_use_reproduction,Reproduction,,,DCTERMS.license,
+field_rights_statement,Rights Statement,,,,
+field_collection_guide,Collection Guide,,,,
+field_shelf_locator,Shelf Locator,,,,
+field_local_identifier,Local Identifier,,,,
+field_note,Note,,,,
+field_member_of,Member Of,,,DCTERMS.memberOf,
+type,Type,,,,
