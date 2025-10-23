@@ -32,11 +32,13 @@ item-meta: true
         <div class="col-12 col-md-10" id="metadata">
 
             {%- assign fields = site.data.config-metadata | where_exp: 'item', 'item.display_name != nil' -%}
-            <div id="item-metadata">
-                <dl>
+            <div id="item-metadata" class="table-responsive">
+                <table class="table align-middle">
+                    <tbody>
                     {% for f in fields %}{% if page[f.field] %}
-                    <dt class="field">{{ f.display_name }}:</dt>
-                    <dd class="field-value">
+                    <tr>
+                    <th class="field">{{ f.display_name }}:</th>
+                    <td style="word-wrap: break-word;min-width: 160px;max-width: 160px;" class="field-value">
                         {% if f.browse_link == "true" %}
                         {% assign topics = page[f.field] | split: ";" %}
                         {% for t in topics %}
@@ -46,9 +48,11 @@ item-meta: true
                         <a href="{{ page[f.field] }}" target="_blank" rel="noopener">{{ page[f.field] }}</a>
                         {% else %}
                         {{ page[f.field] | replace: '""','"' }}{% endif %}
-                    </dd>
+                    </td>
+                    </tr>
                     {% endif %}{% endfor %}
-                </dl>
+                    </tbody>
+                </table>
             </div>
 
             {% include item/contact-btn.html %}
