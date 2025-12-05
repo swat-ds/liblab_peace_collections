@@ -1,0 +1,5 @@
+field,display_name,btn,hidden,sort_name,facet_name
+title,Title,,,Identifier
+field_linked_agent,Linked Agents,,,Linked Agents
+field_subject,Subject,,,Subject
+field_location,Location,,,Location

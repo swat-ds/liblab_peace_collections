@@ -42,11 +42,6 @@ custom-foot: js/3d-model-item.html
                     <div class="btn-group" id="modelOptionGroup" role="group" aria-label="Select 3D model type">
                         <input type="radio" class="btn-check" name="modelOption" id="objModel" autocomplete="off" value="{{ obj_model.object_location | relative_url }}" checked>
                         <label class="btn btn-outline-primary" for="objModel">OBJ Model</label>
-                        {% if page.object_location and mtl_model %}
-                        <input type="radio" class="btn-check" name="modelOption" id="mtlModel" autocomplete="off" value="{{ obj_model.object_location | relative_url }},{{ mtl_model.object_location | relative_url }},{{ page.object_location }}">
-                        <label class="btn btn-outline-primary" for="mtlModel">OBJ + MTL Model</label>{% endif %}
-                        <input type="radio" class="btn-check" name="modelOption" id="stlModel" autocomplete="off" value="{{ stl_model.object_location | relative_url }}">
-                        <label class="btn btn-outline-primary" for="stlModel">STL Model</label>
                     </div>
                 </div>
 
