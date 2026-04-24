@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name,facet_name
-title,Title,,,Identifier
-field_linked_agent,Linked Agents,,,Linked Agents
-field_subject,Subject,,,Subject
-field_location,Location,,,Location
+title,Title,,,Identifier,
+field_linked_agent,Linked Agents,true,,Linked Agents,
+field_subject,Subject,true,,Subject,
+field_location,Location,true,,Location,
